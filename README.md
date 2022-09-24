@@ -33,6 +33,10 @@ A:  `python --version`
 
 * [Python as Calculator](https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator)
 
+### Watch the Series
+
+* [Assimilate Python from Zero](https://learning.oreilly.com/videos/assimilate-python-from/080292022VIDEOPAIML/)
+
 ### References and Future Topics
 
 * [Build a GUI with KIVY](https://github.com/kivy/kivy)
