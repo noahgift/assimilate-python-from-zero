@@ -33,4 +33,12 @@ A:  `python --version`
 
 * [Python as Calculator](https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator)
 
+### References and Future Topics
+
+* [Build a GUI with KIVY](https://github.com/kivy/kivy)
+
+
+
+
+
 
